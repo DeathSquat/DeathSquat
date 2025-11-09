@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **nishchaychaurasia610@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Vision Sense AI
+- 🔭 **I’m currently working on:** Abacus Learn Project
 - 🌱 **I’m currently learning:** Advanced Machine Learning, React.js, and Android App Development with Java
 - 👯 **I’m looking to collaborate on:** AI/ML-based safety systems, mental health tech apps like MindCure AI
 - 🤔 **I’m looking for help with:** Optimizing AI models for edge devices and integrating ML modules in mobile applications
