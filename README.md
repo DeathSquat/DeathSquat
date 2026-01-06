@@ -23,9 +23,6 @@ Email Me 👉 ✉️ **nishchaychaurasia610@gmail.com** For Collaboration/Projec
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=DeathSquat&theme=blue-green&hide_border=false)<br/>
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
